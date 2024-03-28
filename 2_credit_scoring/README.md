@@ -1,6 +1,6 @@
 # Исследование надежности заемщиков
 
-HTML ipynb
+[HTML](https://github.com/AntonSA888/Portfolio/blob/main/2_credit_scoring/credit_scoring.html) [ipynb](https://github.com/AntonSA888/Portfolio/blob/main/2_credit_scoring/credit_scoring.ipynb)
 
 
 ## Описание проекта

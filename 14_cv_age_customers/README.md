@@ -1,10 +1,10 @@
-# Исследование надежности заемщиков
+# Определение возраста покупателей
 
-[HTML](https://github.com/AntonSA888/Portfolio/blob/main/15_steel_processing/steel_processing.html) [ipynb](https://github.com/AntonSA888/Portfolio/blob/main/15_steel_processing/steel_processing.ipynb)
+[HTML](https://github.com/AntonSA888/Portfolio/blob/main/14_cv_age_customers/cv_age_customers.html) [ipynb](https://github.com/AntonSA888/Portfolio/blob/main/14_cv_age_customers/cv_age_customers.ipynb)
 
 ## Описание проекта
 
-Построил модель, которая предсказывает конечную температуру стального сплава (задача регрессии).
+Построил и обучил свёрточную нейронную сеть на датасете с фотографиями людей для прогноза возраста покупателей.
 
 ## Навыки и инструменты
 
@@ -12,29 +12,16 @@
 - pandas
 - numpy
 - matplotlib
-- lightgbm
-- sklearn.model_selection
-- sklearn.tree
-- sklearn.linear_model
-- sklearn.pipeline
-- sklearn.metrics
-- sklearn.preprocessing
-- sklearn.compose
-- sklearn.dummy
-- seaborn
-- phik
-- shap
-
+- tensorflow.keras.preprocessing.image
+- tensorflow.keras.datasets
+- tensorflow.keras.layers
+- tensorflow.keras.models
+- tensorflow.keras.optimizers
+- tensorflow.keras.applications.resnet
 
 ## Общий вывод
 
-- Изучили данные, проверили их на предмет аномалий и несоответствий.
-- Произвели исследовательский анализ и предобработку данных.
-- Отобрали нужные признаки для обучения моделей и сгенерировали новые.
-- Подготовили данные и обучили 3 модели, используя кроссвалидацию и перебор гиперпараметров с помощью GridSearchCV:
-  - LinearRegression;
-  - LightGBM;
-  - DecisionTree.
-- Выбрали лучшую модель и произвели анализ важности признаков.
-
+- Изучили данные.
+- Подготовили модель на основе ResNet50 для дальнейшего расчета в Yandex Cloud.
+- Произвели обучение модели в облачном сервере и получили результаты, удовлетворяющие требованиям условного заказчика.
 

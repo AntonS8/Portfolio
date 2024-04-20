@@ -1,10 +1,10 @@
-# Исследование надежности заемщиков
+# Прогнозирование покупательской активности интернет-магазина
 
-[HTML](https://github.com/AntonSA888/Portfolio/blob/main/15_steel_processing/steel_processing.html) [ipynb](https://github.com/AntonSA888/Portfolio/blob/main/15_steel_processing/steel_processing.ipynb)
+[HTML](https://github.com/AntonSA888/Portfolio/blob/main/7_purchasing_activity/purchasing_activity.html) [ipynb](https://github.com/AntonSA888/Portfolio/blob/main/7_purchasing_activity/purchasing_activity.ipynb)
 
 ## Описание проекта
 
-Построил модель, которая предсказывает конечную температуру стального сплава (задача регрессии).
+Построил модель, которая предсказывает вероятность снижения покупательской активности клиента в следующие три месяца (задача классификации). Выделил сегменты покупателей и разработал для них персонализированные предложения.
 
 ## Навыки и инструменты
 
@@ -12,17 +12,16 @@
 - pandas
 - numpy
 - matplotlib
-- lightgbm
-- sklearn.model_selection
+- sklearn.neighbors
 - sklearn.tree
 - sklearn.linear_model
-- sklearn.pipeline
+- sklearn.svm
 - sklearn.metrics
+- sklearn.pipeline
 - sklearn.preprocessing
 - sklearn.compose
-- sklearn.dummy
+- sklearn.impute
 - seaborn
-- phik
 - shap
 
 
@@ -30,11 +29,12 @@
 
 - Изучили данные, проверили их на предмет аномалий и несоответствий.
 - Произвели исследовательский анализ и предобработку данных.
-- Отобрали нужные признаки для обучения моделей и сгенерировали новые.
-- Подготовили данные и обучили 3 модели, используя кроссвалидацию и перебор гиперпараметров с помощью GridSearchCV:
-  - LinearRegression;
-  - LightGBM;
-  - DecisionTree.
+- Подготовили данные и обучили 4 модели, используя кроссвалидацию и перебор гиперпараметров с помощью RandomizedSearchCV:
+  - KNeighborsClassifier;
+  - DecisionTreeClassifier;
+  - LogisticRegression;
+  - SVC.
 - Выбрали лучшую модель и произвели анализ важности признаков.
+- Произвели анализ целевой группы.
 
 

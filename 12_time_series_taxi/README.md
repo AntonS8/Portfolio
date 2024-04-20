@@ -1,4 +1,4 @@
-# Исследование надежности заемщиков
+# Прогнозирование заказов такси
 
 [HTML](https://github.com/AntonSA888/Portfolio/blob/main/12_time_series_taxi/time_series_taxi.html) [ipynb](https://github.com/AntonSA888/Portfolio/blob/main/12_time_series_taxi/time_series_taxi.ipynb)
 

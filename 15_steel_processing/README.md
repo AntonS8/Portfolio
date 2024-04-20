@@ -14,16 +14,17 @@
 - matplotlib
 - lightgbm
 - sklearn.model_selection
-- sklearn.dummy
 - sklearn.tree
 - sklearn.linear_model
 - sklearn.pipeline
 - sklearn.metrics
 - sklearn.preprocessing
 - sklearn.compose
+- sklearn.dummy
 - seaborn
-- shap
 - phik
+- shap
+
 
 ## Общий вывод
 

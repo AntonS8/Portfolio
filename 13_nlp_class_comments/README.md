@@ -1,4 +1,4 @@
-# Исследование надежности заемщиков
+# Классификация комментариев интернет-магазина
 
 [HTML]() [ipynb](https://github.com/AntonSA888/Portfolio/blob/main/13_nlp_class_comments/nlp_class_comments.ipynb)
 

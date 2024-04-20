@@ -1,22 +1,39 @@
 # Исследование надежности заемщиков
 
-[HTML](https://github.com/AntonSA888/Portfolio/blob/main/2_credit_scoring/credit_scoring.html) [ipynb](https://github.com/AntonSA888/Portfolio/blob/main/2_credit_scoring/credit_scoring.ipynb)
-
+[HTML](https://github.com/AntonSA888/Portfolio/blob/main/15_steel_processing/steel_processing.html) [ipynb](https://github.com/AntonSA888/Portfolio/blob/main/15_steel_processing/steel_processing.ipynb)
 
 ## Описание проекта
 
-Нужно выяснить, влияет ли семейное положение, количество детей, уровень дохода и цели клиента на факт погашения кредита в срок. Результаты исследования необходимы для построения модели кредитного скоринга.
-
+Построили модель, которая предсказывает конечную температуру стального сплава (задача регрессии).
 
 ## Навыки и инструменты
 
 - python
 - pandas
-
+- numpy
+- matplotlib
+- lightgbm
+- sklearn.model_selection
+- sklearn.dummy
+- sklearn.tree
+- sklearn.linear_model
+- sklearn.pipeline
+- sklearn.metrics
+- sklearn.preprocessing
+- sklearn.compose
+- seaborn
+- shap
+- phik
 
 ## Общий вывод
 
 - Изучили данные, проверили их на предмет аномалий и несоответствий.
-- Произвели предобработку данных для последующего анализа.
-- Произвели исследования и выяснили зависимость возврата кредита в срок от различных факторов.
+- Произвели исследовательский анализ и предобработку данных.
+- Отобрали нужные признаки для обучения моделей и сгенерировали новые.
+- Подготовили данные и обучили 3 модели, используя кроссвалидацию и перебор гиперпараметров с помощью GridSearchCV:
+  - LinearRegression;
+  - LightGBM;
+  - DecisionTree.
+- Выбрали лучшую модель и произвели анализ важности признаков.
+
 

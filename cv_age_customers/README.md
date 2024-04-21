@@ -1,10 +1,10 @@
 # Определение возраста покупателей
 
-[HTML](https://github.com/AntonSA888/Portfolio/blob/main/14_cv_age_customers/cv_age_customers.html) [ipynb](https://github.com/AntonSA888/Portfolio/blob/main/14_cv_age_customers/cv_age_customers.ipynb)
+[HTML](https://github.com/AntonSA888/Portfolio/blob/main/cv_age_customers/cv_age_customers.html) [ipynb](https://github.com/AntonSA888/Portfolio/blob/main/cv_age_customers/cv_age_customers.ipynb)
 
 ## Описание проекта
 
-Построил и обучил свёрточную нейронную сеть на датасете с фотографиями людей для прогноза возраста покупателей.
+Построили и обучили свёрточную нейронную сеть на датасете с фотографиями людей для прогноза возраста покупателей.
 
 ## Навыки и инструменты
 

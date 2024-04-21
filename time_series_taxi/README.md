@@ -1,10 +1,10 @@
 # Прогнозирование заказов такси
 
-[HTML](https://github.com/AntonSA888/Portfolio/blob/main/12_time_series_taxi/time_series_taxi.html) [ipynb](https://github.com/AntonSA888/Portfolio/blob/main/12_time_series_taxi/time_series_taxi.ipynb)
+[HTML](https://github.com/AntonSA888/Portfolio/blob/main/time_series_taxi/time_series_taxi.html) [ipynb](https://github.com/AntonSA888/Portfolio/blob/main/time_series_taxi/time_series_taxi.ipynb)
 
 ## Описание проекта
 
-Построил модель, которая прогнозирует количество заказов такси на следующий час (задача регрессии для временного ряда)
+Построили модель, которая прогнозирует количество заказов такси на следующий час.
 
 ## Навыки и инструменты
 

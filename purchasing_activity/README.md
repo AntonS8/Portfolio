@@ -1,10 +1,10 @@
 # Прогнозирование покупательской активности интернет-магазина
 
-[HTML](https://github.com/AntonSA888/Portfolio/blob/main/7_purchasing_activity/purchasing_activity.html) [ipynb](https://github.com/AntonSA888/Portfolio/blob/main/7_purchasing_activity/purchasing_activity.ipynb)
+[HTML](https://github.com/AntonSA888/Portfolio/blob/main/purchasing_activity/purchasing_activity.html) [ipynb](https://github.com/AntonSA888/Portfolio/blob/main/purchasing_activity/purchasing_activity.ipynb)
 
 ## Описание проекта
 
-Построил модель, которая предсказывает вероятность снижения покупательской активности клиента в следующие три месяца (задача классификации). Выделил сегменты покупателей и разработал для них персонализированные предложения.
+Построили модель, которая предсказывает вероятность снижения покупательской активности клиента в следующие три месяца. Выделили сегменты покупателей и разработали для них персонализированные предложения.
 
 ## Навыки и инструменты
 

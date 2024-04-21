@@ -1,10 +1,10 @@
 # Классификация комментариев интернет-магазина
 
-[HTML](https://github.com/AntonSA888/Portfolio/blob/main/13_nlp_class_comments/nlp_class_comments.html) [ipynb](https://github.com/AntonSA888/Portfolio/blob/main/13_nlp_class_comments/nlp_class_comments.ipynb)
+[HTML](https://github.com/AntonSA888/Portfolio/blob/main/nlp_class_comments/nlp_class_comments.html) [ipynb](https://github.com/AntonSA888/Portfolio/blob/main/nlp_class_comments/nlp_class_comments.ipynb)
 
 ## Описание проекта
 
-Построил модель, которая классифицирует комментарии на позитивные и негативные
+Построили модель, которая классифицирует комментарии на позитивные и негативные
 
 ## Навыки и инструменты
 

@@ -1,10 +1,10 @@
-# Исследование надежности заемщиков
+# Прогнозирование температуры стали
 
-[HTML](https://github.com/AntonSA888/Portfolio/blob/main/15_steel_processing/steel_processing.html) [ipynb](https://github.com/AntonSA888/Portfolio/blob/main/15_steel_processing/steel_processing.ipynb)
+[HTML](https://github.com/AntonSA888/Portfolio/blob/main/steel_processing/steel_processing.html) [ipynb](https://github.com/AntonSA888/Portfolio/blob/main/steel_processing/steel_processing.ipynb)
 
 ## Описание проекта
 
-Построил модель, которая предсказывает конечную температуру стального сплава (задача регрессии).
+Построили модель, которая предсказывает конечную температуру стального сплава.
 
 ## Навыки и инструменты
 

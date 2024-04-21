@@ -1,6 +1,8 @@
 # Прогнозирование покупательской активности интернет-магазина
 
-[HTML](https://github.com/AntonSA888/Portfolio/blob/main/7_purchasing_activity/purchasing_activity.html) [ipynb](https://github.com/AntonSA888/Portfolio/blob/main/7_purchasing_activity/purchasing_activity.ipynb)
+[HTML](https://github.com/AntonSA888/Portfolio/blob/main/class_purchasing_activity
+/class_purchasing_activity.html) [ipynb](https://github.com/AntonSA888/Portfolio/blob/main/class_purchasing_activity
+/class_purchasing_activity.ipynb)
 
 ## Описание проекта
 

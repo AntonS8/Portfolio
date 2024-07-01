@@ -1,6 +1,6 @@
 # Прогнозирование температуры стали
 
-[HTML](https://github.com/AntonSA888/Portfolio/blob/main/regr_steel_temperature/regr_steel_temperature.html) [ipynb](https://github.com/AntonSA888/Portfolio/blob/main/regr_steel_temperature/regr_steel_temperature.ipynb)
+[HTML](https://github.com/AntonS8/Portfolio/blob/main/regr_steel_temperature/regr_steel_temperature.html) [ipynb](https://github.com/AntonS8/Portfolio/blob/main/regr_steel_temperature/regr_steel_temperature.ipynb)
 
 ## Описание проекта
 

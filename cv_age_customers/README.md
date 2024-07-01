@@ -1,6 +1,6 @@
 # Определение возраста покупателей
 
-[HTML](https://github.com/AntonSA888/Portfolio/blob/main/cv_age_customers/cv_age_customers.html) [ipynb](https://github.com/AntonSA888/Portfolio/blob/main/cv_age_customers/cv_age_customers.ipynb)
+[HTML](https://github.com/AntonS8/Portfolio/blob/main/cv_age_customers/cv_age_customers.html) [ipynb](https://github.com/AntonS8/Portfolio/blob/main/cv_age_customers/cv_age_customers.ipynb)
 
 ## Описание проекта
 

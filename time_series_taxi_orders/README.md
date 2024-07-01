@@ -1,6 +1,6 @@
 # Прогнозирование заказов такси
 
-[HTML](https://github.com/AntonSA888/Portfolio/blob/main/time_series_taxi_orders/time_series_taxi_orders.html) [ipynb](https://github.com/AntonSA888/Portfolio/blob/main/time_series_taxi_orders/time_series_taxi_orders.ipynb)
+[HTML](https://github.com/AntonS8/Portfolio/blob/main/time_series_taxi_orders/time_series_taxi_orders.html) [ipynb](https://github.com/AntonS8/Portfolio/blob/main/time_series_taxi_orders/time_series_taxi_orders.ipynb)
 
 ## Описание проекта
 
